@@ -1,0 +1,1 @@
+458500+500 = 458752  miliSaniye fonksiyonunda karþýlaþtýrma yapýlýrken karþýlaþýldý..
